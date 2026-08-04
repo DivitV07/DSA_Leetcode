@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DivitV07/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [2235-add-two-integers](https://github.com/DivitV07/DSA_Leetcode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
