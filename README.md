@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/DivitV07/DSA_Leetcode/tree/master/2235-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
