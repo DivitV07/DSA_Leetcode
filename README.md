@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivitV07/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -25,6 +26,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/DivitV07/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
