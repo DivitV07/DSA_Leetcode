@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DivitV07/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
