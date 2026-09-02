@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/DivitV07/DSA_Leetcode/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DivitV07/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivitV07/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivitV07/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DivitV07/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
