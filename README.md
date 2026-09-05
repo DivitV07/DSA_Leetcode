@@ -11,6 +11,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/DivitV07/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/DivitV07/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/DivitV07/DSA_Leetcode/tree/master/2235-add-two-integers) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DivitV07/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/DivitV07/DSA_Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/DivitV07/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DivitV07/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DivitV07/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivitV07/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DivitV07/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DivitV07/DSA_Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
