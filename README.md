@@ -31,6 +31,7 @@
 | [0189-rotate-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DivitV07/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivitV07/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DivitV07/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DivitV07/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/DivitV07/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
