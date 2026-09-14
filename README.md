@@ -39,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DivitV07/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivitV07/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DivitV07/DSA_Leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0169-majority-element](https://github.com/DivitV07/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DivitV07/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DivitV07/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DivitV07/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
