@@ -38,6 +38,7 @@
 | [0229-majority-element-ii](https://github.com/DivitV07/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/DivitV07/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DivitV07/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/DivitV07/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DivitV07/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +145,28 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DivitV07/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
