@@ -50,6 +50,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DivitV07/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivitV07/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DivitV07/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DivitV07/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivitV07/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivitV07/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -167,6 +168,7 @@
 | [0493-reverse-pairs](https://github.com/DivitV07/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivitV07/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DivitV07/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DivitV07/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
